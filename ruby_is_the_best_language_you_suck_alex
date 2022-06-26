@@ -1,2 +1,2 @@
 x = 2
-puts x
+puts (z + 3)
